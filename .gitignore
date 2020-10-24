@@ -3,3 +3,4 @@ venv
 prepped
 .vscode
 images/ok
+.DS_Store
