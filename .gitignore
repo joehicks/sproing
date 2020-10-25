@@ -4,3 +4,4 @@ prepped
 .vscode
 images/ok
 .DS_Store
+config.json
